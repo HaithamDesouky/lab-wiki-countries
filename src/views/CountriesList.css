@@ -1,0 +1,12 @@
+.row {
+  width: 10vw;
+  margin-left: 4rem;
+}
+
+.countryDetails {
+  width: 50%;
+}
+
+.countriesList {
+  width: 50%;
+}
